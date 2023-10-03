@@ -46,7 +46,7 @@ class Theming {
     return ThemeData(
       primarySwatch: Colors.grey,
       brightness: Brightness.dark,
-      accentColor: Colors.grey,
+      hintColor: Colors.grey,
       scaffoldBackgroundColor: Colors.black,
       // TYPOGRAPHY
       textTheme: TextTheme(
